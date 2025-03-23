@@ -48,16 +48,12 @@ CODEFORCES_API_SECRET=your_api_secret
 ```
 
 ### 4️⃣ Run the Application
-#### Start Backend Server
+#### Start Server
 ```bash
-cd backend
+
 npm run dev
 ```
-#### Start Frontend Server
-```bash
-cd frontend
-npm run dev
-```
+
 
 ## 🛠️ API Endpoints
 
