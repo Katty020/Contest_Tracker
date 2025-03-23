@@ -30,15 +30,10 @@ cd contest-tracker
 ```
 
 ### 2️⃣ Install Dependencies
-#### Frontend
+#### Frontend/Backend
 ```bash
-cd frontend
 npm install
-```
-#### Backend
-```bash
-cd backend
-npm install
+
 ```
 
 ### 3️⃣ Set Up Environment Variables
